@@ -7,6 +7,6 @@ module.exports = EngineAddon.extend({
   name: 'my-engine',
 
   lazyLoading: Object.freeze({
-    enabled: false
+    enabled: true
   })
 });
