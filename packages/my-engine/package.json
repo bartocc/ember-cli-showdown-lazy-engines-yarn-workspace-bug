@@ -8,9 +8,7 @@
   "dependencies": {
     "ember-cli-babel": "*",
     "ember-cli-htmlbars": "*",
-    "ember-truth-helpers": "*",
-    "ember-leaflet": "3.1.3",
-    "ember-leaflet-marker-cluster": "bartocc/ember-leaflet-marker-cluster#ember-2.18-deprecation-warning"
+    "ember-truth-helpers": "*"
   },
   "devDependencies": {
     "@ember/optional-features": "^0.7.0",
