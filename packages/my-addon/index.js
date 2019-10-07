@@ -17,7 +17,7 @@ module.exports = {
   },
 
   treeForVendor(vendorTree) {
-    const assetDir = path.join(this.project.root + '/../../node_modules/my-third-party-package/src');
+    const assetDir = path.join(this.project.root + '/node_modules/my-third-party-package/src');
 
     var thirdPartyTree = new Funnel(assetDir, {
       files: ['third-party.js'],
