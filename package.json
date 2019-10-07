@@ -4,6 +4,6 @@
     "packages/*"
   ],
   "resolutions": {
-    "**/ember-engines": "0.8.0"
+    "**/ember-engines": "0.7.2"
   }
 }
