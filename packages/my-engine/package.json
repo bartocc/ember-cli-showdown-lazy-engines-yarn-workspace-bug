@@ -8,7 +8,7 @@
   "dependencies": {
     "ember-cli-babel": "*",
     "ember-cli-htmlbars": "*",
-    "ember-cli-showdown": "^4.4.4"
+    "my-addon": "0.0.0"
   },
   "devDependencies": {
     "@ember/optional-features": "^0.7.0",
